@@ -1,0 +1,16 @@
+.year {
+    font-weight: bold;
+}
+
+figure {
+    margin: 2rem 0;
+    font-style: italic;
+}
+
+blockquote {
+    margin: 0px;
+}
+
+footer {
+    font-weight: bold;
+}
